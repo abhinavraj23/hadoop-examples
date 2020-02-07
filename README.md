@@ -1,5 +1,5 @@
-# NoSql - Lab1 - Abhinav Raj
-This Lab consists of Map Reduce programs on Hadoop.
+# Hadoop-Examples by Abhinav Raj
+The problem statement for the examples can be found [here](./ProblemStatements.pdf) 
 
 **Question 2:** Input file consists of the NCDC weather data and the Map Reduce program returns yearly the Maximum Temperature recorded.
 
